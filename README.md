@@ -1,6 +1,6 @@
-# AI Office Tutor
+# URA AI
 
-AI Office Tutor is a desktop assistant designed to help users perform tasks in **Microsoft Word** using a combination of:
+URA is a desktop assistant designed to help users perform tasks in **Microsoft Word** using a combination of:
 - Real-time screen capture  
 - YOLO object detection  
 - A local LLM (DeepSeek or Gemma via Ollama)  
